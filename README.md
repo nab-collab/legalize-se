@@ -7,6 +7,7 @@ Samtliga **gällande** författningar ur Svensk Författningssamling (SFS), häm
 | Fil/Katalog | Beskrivning |
 |---|---|
 | `sfs_lista.txt` | Tab-separerad förteckning över alla gällande SFS-författningar (SFS-nr + rubrik) |
+| `manifest.json` | JSON-objekt med beteckning → uppdateradDateTime (versionsstämpel per dokument) |
 | `md/` | En markdown-fil per författning med fulltext (>7K filer) |
 | `update_sfs.py` | Skript som hämtar och uppdaterar data från Rättsbaser-API:et |
 | `update_log.txt` | Logg över automatiska uppdateringar |
@@ -20,6 +21,7 @@ Varje fil i `md/`-katalogen är namngiven `SFS_<nr>.md` och innehåller:
 - Typ (lag, förordning, etc.)
 - Myndighet/Departement
 - Ikraftträdandedatum
+- Senast uppdaterad i Rättsbaser
 - Fullständig författningstext
 
 ## Automatisk uppdatering
@@ -27,11 +29,12 @@ Varje fil i `md/`-katalogen är namngiven `SFS_<nr>.md` och innehåller:
 Repot uppdateras automatiskt varje **måndag kl. 03:00 UTC** via GitHub Actions (se `.github/workflows/weekly-update-sfs.yml`).
 
 Uppdateringsskriptet:
-1. Läser `sfs_lista.txt` för att se vilka SFS-nr som redan finns i repot
-2. Frågar Rättsbaser-API:et efter **alla** gällande SFS-dokument (år för år, fr.o.m. 1600)
-3. Laddar ner och sparar nya författningar som markdown-filer
-4. Tar bort markdown-filer för upphävda författningar
-5. Uppdaterar `sfs_lista.txt` och loggar förändringarna i `update_log.txt`
+1. Läser `manifest.json` för att se vilka SFS-nr som redan finns i repot och deras versionsstämplar (uppdateradDateTime)
+2. Frågar Rättsbaser-API:et efter **alla** gällande SFS-dokument (år för år, fr.o.m. 1800)
+3. Klassificerar varje post som ny, ändrad eller upphävd
+4. Laddar ner och sparar/uppdaterar markdown-filer för nya och ändrade författningar
+5. Tar bort markdown-filer för upphävda författningar
+6. Uppdaterar `sfs_lista.txt` och `manifest.json` och loggar förändringarna i `update_log.txt`
 
 ## Datakälla
 
