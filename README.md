@@ -6,8 +6,6 @@ Varje lag är en fil. Varje reform är en commit.
 
 **7 277 författningar** · **Daglig uppdatering**
 
-Del av projektet <a href="https://github.com/legalize-dev/legalize">Legalize</a> · <a href="https://legalize.dev">legalize.dev</a>
-
 > **Early stage** — This repository is under active development. File structure, commit history, and content may undergo significant changes, including full regeneration.
 
 ## Snabbstart
@@ -58,4 +56,4 @@ Lagtexter är offentlig information. Strukturering och formatering är licensier
 
 ---
 
-Skapat av <a href="https://enriquelopez.eu">Enrique Lopez</a> · <a href="https://legalize.dev">legalize.dev</a>
+Skapat av <a href="https://enriquelopez.eu">Enrique Lopez</a>
