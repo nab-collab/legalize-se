@@ -30,7 +30,7 @@ Repot uppdateras automatiskt varje **måndag kl. 03:00 UTC** via GitHub Actions 
 
 Uppdateringsskriptet:
 1. Läser `manifest.json` för att se vilka SFS-nr som redan finns i repot och deras versionsstämplar (uppdateradDateTime)
-2. Frågar Rättsbaser-API:et efter **alla** gällande SFS-dokument (år för år, fr.o.m. 1800)
+2. Frågar Rättsbaser-API:et efter **alla** gällande SFS-dokument (år för år, fr.o.m. 1600)
 3. Klassificerar varje post som ny, ändrad eller upphävd
 4. Laddar ner och sparar/uppdaterar markdown-filer för nya och ändrade författningar
 5. Tar bort markdown-filer för upphävda författningar
