@@ -50,3 +50,11 @@ grep -rl "personuppgift" md/
 # Sök i listan efter rubrik
 grep -i "dataskydd" sfs_lista.txt
 ```
+
+
+## Licens
+
+- **Kod** (t.ex. `update_sfs.py`, GitHub Actions-workflows) licensieras under **MIT** (se `LICENSE`).
+- **Data/innehåll** (t.ex. `md/`, `sfs_lista.txt`) licensieras under **Creative Commons Erkännande 4.0 Internationell** (**CC BY 4.0**) (se `LICENSE-DATA`).
+
+Observera: Underliggande SFS-texter är officiella författningstexter och kan omfattas av separata villkor för vidareutnyttjande; CC BY 4.0 avser denna sammanställning/metadata/formattering.
