@@ -28,7 +28,7 @@ from datetime import date
 # ── Config ─────────────────────────────────────────────────────────────────────
 BASE       = "https://beta.rkrattsbaser.gov.se"
 ENDPOINT   = BASE + "/elasticsearch/SearchEsByRawJson"
-START_YEAR = 1800
+START_YEAR = 1600
 PAGE_SIZE  = 50
 DELAY_S    = 0.5
 MD_DIR     = "md"
