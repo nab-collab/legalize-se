@@ -2968,7 +2968,7 @@ SFS-nr	Rubrik
 2011:345	Avgasreningsförordning (2011:345)
 2011:346	Drivmedelsförordning (2011:346)
 2011:355	Förordning (2011:355) om försöksverksamhet med riksrekryterande  spetsutbildning i grundskolans högre årskurser och statsbidrag för sådan utbildning
-2011:398	/Rubriken upphör att gälla U:2026-04-07/ Förordning (2011:398) om särskild utbildning med judiska studier i grundskolan /Rubriken träder i kraft I:2026-04-07/ Förordning (2011:398) om särskild utbildning med judiska studier i grundskolan och statsbidrag för sådan utbildning
+2011:398	Förordning (2011:398) om särskild utbildning med judiska studier i grundskolan och statsbidrag för sådan utbildning
 2011:405	Tillkännagivande (2011:405) om staters tillträde till Luganokonventionen
 2011:423	Lag (2011:423) om erkännande och verkställighet av beslut om förverkande i vissa fall
 2011:427	Lag (2011:427) om europeiska företagsråd
@@ -4682,6 +4682,8 @@ SFS-nr	Rubrik
 2026:310	Lag (2026:310) om tillhandahållande på marknaden av EU-gödselprodukter
 2026:311	Förordning (2026:311) om invasiva främmande arter
 2026:321	Förordning (2026:321) om tillfälligt undantag från krav på yrkestrafiktillstånd
+2026:333	Lag (2026:333) om uppgiftsskyldighet för vissa e-legitimationsföretag
+2026:337	Förordning (2026:337) om uppgiftsskyldighet för vissa e-legitimationsföretag
 2026:4	Förordning (2026:4) om statlig jobbpremie
 2026:43	Lag (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning
 2026:44	Lag (2026:44) om registerkontroll vid anställning till ledande befattningar i kommuner
@@ -7278,3 +7280,4 @@ N2025:8	Förordning om ändring i förordningen (SKOLFS 2010:255) om läroplan f
 N2025:9	Förordning om ändring i förordningen (SKOLFS 2011:144) om läroplan för gymnasieskolan
 N2026:1	Förordning om anställning vid den nya myndigheten Myndigheten för utrikes underrättelser
 N2026:2	Förordning om anställning vid den nya myndigheten Miljöprövningsmyndigheten
+N2026:3	Förordning om ändring i förordningen (SKOLFS 1998:31) om reguljär gymnasieutbildning vid vissa svenska utlandsskolor
