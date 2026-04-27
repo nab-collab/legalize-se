@@ -2745,7 +2745,6 @@ SFS-nr	Rubrik
 2009:925	Förordning (2009:925) om inkomstindex för år 2010
 2009:926	Förordning (2009:926) om inkomstbasbelopp för år 2010
 2009:929	Förordning (2009:929) om handel med vissa receptfria läkemedel
-2009:93	Förordning (2009:93) med instruktion för Finansinspektionen
 2009:945	Förordning (2009:945) med instruktion för Statens geotekniska institut
 2009:946	Förordning (2009:946) med instruktion för Lantmäteriet
 2009:947	Förordning (2009:947) med instruktion för Kemikalieinspektionen
