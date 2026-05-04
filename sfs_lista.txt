@@ -2829,7 +2829,6 @@ SFS-nr	Rubrik
 2010:1906	Förordning (2010:1906) om ränta på återbetalning för år 2011 enligt lagen (1996:1030) om underhållsstöd
 2010:1919	Lag (2010:1919) om fördelning av vissa statsbidrag till regional kulturverksamhet
 2010:1922	Förordning (2010:1922) med instruktion för Statens musikverk
-2010:1923	Förordning (2010:1923) med instruktion för Statens medieråd
 2010:1925	Förordning (2010:1925) om åldersgränser för film som ska visas offentligt
 2010:1932	Delgivningslag (2010:1932)
 2010:1933	Lag (2010:1933) om auktorisation av delgivningsföretag
@@ -4002,7 +4001,6 @@ SFS-nr	Rubrik
 2020:833	Förordning (2020:833) om skolenhetsregister
 2020:838	Förordning (2020:838) om omställningsstöd för maj-juli 2020
 2020:878	Radio- och tv-förordning
-2020:879	Förordning med instruktion för Myndigheten för press, radio och tv
 2020:887	Försäkringskassans föreskrifter (2020:887) om ändring av vissa underhållsbidrag år 2021
 2020:914	Lag (2020:914) om tystnadsplikt vid utkontraktering av teknisk bearbetning eller lagring av uppgifter
 2020:936	Förordning (2020:936) om fastställande av omräknade belopp för vägavgift för år 2021
@@ -4683,7 +4681,12 @@ SFS-nr	Rubrik
 2026:321	Förordning (2026:321) om tillfälligt undantag från krav på yrkestrafiktillstånd
 2026:333	Lag (2026:333) om uppgiftsskyldighet för vissa e-legitimationsföretag
 2026:337	Förordning (2026:337) om uppgiftsskyldighet för vissa e-legitimationsföretag
+2026:380	Lag (2026:380) om bistånd till vissa utlänningar vid inhibition av verkställigheten
+2026:391	Förordning (2026:391) om bistånd till vissa utlänningar vid inhibition av verkställigheten
+2026:399	Lag (2026:399) om verksamheter och åtgärder för förnybar energi
 2026:4	Förordning (2026:4) om statlig jobbpremie
+2026:408	Vapenlag (2026:408)
+2026:409	Vapenförordning (2026:409)
 2026:43	Lag (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning
 2026:44	Lag (2026:44) om registerkontroll vid anställning till ledande befattningar i kommuner
 2026:56	Lag (2026:56) om straff för olovlig finansiell verksamhet
