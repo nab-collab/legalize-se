@@ -4689,6 +4689,14 @@ SFS-nr	Rubrik
 2026:409	Vapenförordning (2026:409)
 2026:43	Lag (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning
 2026:44	Lag (2026:44) om registerkontroll vid anställning till ledande befattningar i kommuner
+2026:440	Lag (2026:440) om skyddsrum och skyddade utrymmen
+2026:443	Förordning (2026:443) om skyddsrum och skyddade utrymmen
+2026:451	Förordning (2026:451) om medborgarskapsprov
+2026:456	Lag (2026:456) om uppehållstillstånd i vissa fall för utlänningar med tillfälligt skydd
+2026:474	Förordning (2026:474) med kompletterande bestämmelser till EU-förordningen om minskade metanutsläpp
+2026:484	Lag (2026:484) om bostadsrättsregister
+2026:485	Lag (2026:485) om införande av lagen (2026:484) om bostadsrättsregister
+2026:502	Förordning (2026:502) om elstöd till konsumenter för januari-februari 2026
 2026:56	Lag (2026:56) om straff för olovlig finansiell verksamhet
 2026:62	Tillkännagivande (2026:62) av EU-förordningar med anledning av lagen (2025:327) om internationella sanktioner
 2026:74	Lag (2026:74) med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur
