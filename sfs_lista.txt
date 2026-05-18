@@ -3785,7 +3785,6 @@ SFS-nr	Rubrik
 2018:1879	Förordning (2018:1879) med instruktion för Etikprövningsmyndigheten
 2018:1937	Lag (2018:1937) om tillgänglighet till digital offentlig service
 2018:1938	Förordning (2018:1938) om tillgänglighet till digital offentlig service
-2018:1939	Förordning (2018:1939) om invasiva främmande arter
 2018:1942	Förordning (2018:1942) om polisens behandling av personuppgifter inom brottsdatalagens område
 2018:1943	Förordning (2018:1943) om Kustbevakningens behandling av personuppgifter inom brottsdatalagens område
 2018:1955	Förordning (2018:1955) om ränta vid betalningsskyldighet för underhållsstöd för år 2019
@@ -4697,6 +4696,7 @@ SFS-nr	Rubrik
 2026:484	Lag (2026:484) om bostadsrättsregister
 2026:485	Lag (2026:485) om införande av lagen (2026:484) om bostadsrättsregister
 2026:502	Förordning (2026:502) om elstöd till konsumenter för januari-februari 2026
+2026:503	Förordning (2026:503) om statsbidrag för integration med E-hälsomyndighetens digitala tjänst för fritidskort
 2026:56	Lag (2026:56) om straff för olovlig finansiell verksamhet
 2026:62	Tillkännagivande (2026:62) av EU-förordningar med anledning av lagen (2025:327) om internationella sanktioner
 2026:74	Lag (2026:74) med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur
