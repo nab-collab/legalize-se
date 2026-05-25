@@ -4698,6 +4698,12 @@ SFS-nr	Rubrik
 2026:502	Förordning (2026:502) om elstöd till konsumenter för januari-februari 2026
 2026:503	Förordning (2026:503) om statsbidrag för integration med E-hälsomyndighetens digitala tjänst för fritidskort
 2026:56	Lag (2026:56) om straff för olovlig finansiell verksamhet
+2026:569	Förordning (2026:569) om skyldighet för domstolar att lämna uppgifter om ärenden om hemliga tvångsmedel
+2026:578	Lag (2026:578) om offentlig säljverksamhet
+2026:582	Förordning (2026:582) om offentlig säljverksamhet
+2026:585	Lag (2026:585) om regeringens godkännande av kärntekniska anläggningar
+2026:600	Förordning (2026:600) om kommuners skyldighet att ställa hyresgarantier
+2026:601	Lag (2026:601) om socialdataregister
 2026:62	Tillkännagivande (2026:62) av EU-förordningar med anledning av lagen (2025:327) om internationella sanktioner
 2026:74	Lag (2026:74) med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur
 2026:75	Förordning (2026:75) om statligt stöd för ökad tillgänglighet till tandvård
