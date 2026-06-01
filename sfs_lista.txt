@@ -1175,7 +1175,6 @@ SFS-nr	Rubrik
 1992:1590	Lag (1992:1590) med särskilda bestämmelser om utbetalning av skattemedel år 1993
 1992:160	Lag (1992:160) om utländska filialer m.m.
 1992:1602	Lag (1992:1602) om valuta- och kreditreglering
-1992:1684	Lag (1992:1684) om EG-gödselmedel
 1992:1685	Lag (1992:1685) om skydd för kretsmönster för halvledarprodukter
 1992:17	Lag (1992:17) om dubbelbeskattningsavtal mellan Sverige och Nederländerna
 1992:1717	Finansinspektionens tillkännagivande (1992:1717) om ändring av vissa skadelivräntor
@@ -1529,8 +1528,6 @@ SFS-nr	Rubrik
 1996:518	Lag (1996:518) om ersättningsskyldighet vid  skada på undervattenskablar och rörledningar m.m.
 1996:519	Lag (1996:519) om verkställighet av domar och beslut som har meddelats enligt Förenta nationernas havsrättskonvention av den 10 december 1982
 1996:66	Riksbankens föreskrifter (1996:66) om sedlar på femtio kronor
-1996:67	Vapenlag (1996:67)
-1996:70	Vapenförordning (1996:70)
 1996:701	Inregränslag (1996:701)
 1996:702	Inregränsförordning (1996:702)
 1996:738	Lag (1996:738) om tillämpning av dubbelbeskattningsavtalet mellan Sverige och Brasilien
@@ -2329,14 +2326,12 @@ SFS-nr	Rubrik
 2006:527	Förordning (2006:527) om uppgiftsskyldighet för Tullverket om införsel eller utförsel av skjutvapen
 2006:531	Lag (2006:531) om särskild tillsyn över finansiella konglomerat
 2006:544	Lag (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap
-2006:545	Lag (2006:545) om skyddsrum
 2006:546	Lag (2006:546) om utrymning och inkvartering m.m. under höjd beredskap
 2006:595	Lag (2006:595) om europakooperativ
 2006:615	Lag (2006:615) om samarbete med Specialdomstolen för Sierra Leone
 2006:618	Förordning (2006:618) om ersättning för inställelse vid  Specialdomstolen för Sierra Leone
 2006:627	Förordning (2006:627) om särskild tillsyn över finansiella konglomerat
 2006:637	Förordning (2006:637) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap
-2006:638	Förordning (2006:638) om skyddsrum
 2006:639	Förordning (2006:639) om utrymning och inkvartering m.m. under höjd beredskap
 2006:647	Lag (2006:647) om finansiering av kärntekniska restprodukter
 2006:671	Lag (2006:671) med anledning av inrättande av  Kronofogdemyndigheten
@@ -4143,7 +4138,6 @@ SFS-nr	Rubrik
 2022:1058	Förordning (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:106	Förordning (2022:106) om upphävande av Verket för näringslivsutvecklings föreskrifter (NUTFS 2007:1) för länsstyrelsernas medfinansiering av projekt för främjande av kvinnors företagande
 2022:107	Förordning (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter
-2022:1107	Lag (2022:1107) om marknadskontroll av EU-gödselprodukter
 2022:1147	Förordning (2022:1147) om marknadskontroll av EU-gödselprodukter
 2022:119	Förordning (2022:119) om upphävande av Folkhälsomyndighetens föreskrifter och allmänna råd (HSLF-FS 2020:78) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19
 2022:1220	Förordning (2022:1220) om statsbidrag till kommuner för att stärka arbetet med att motverka hemlöshet
@@ -4704,7 +4698,10 @@ SFS-nr	Rubrik
 2026:585	Lag (2026:585) om regeringens godkännande av kärntekniska anläggningar
 2026:600	Förordning (2026:600) om kommuners skyldighet att ställa hyresgarantier
 2026:601	Lag (2026:601) om socialdataregister
+2026:611	Förordning (2026:611) med instruktion för Totalförsvarets plikt- och prövningsverk
 2026:62	Tillkännagivande (2026:62) av EU-förordningar med anledning av lagen (2025:327) om internationella sanktioner
+2026:667	Ställföreträdarförordning (2026:667)
+2026:677	Lag (2026:677) om riksdagens medalj
 2026:74	Lag (2026:74) med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur
 2026:75	Förordning (2026:75) om statligt stöd för ökad tillgänglighet till tandvård
 N1977:1	Förordning (N1977:1) med provisoriska föreskrifter om betyg såvitt avser allmänna utbildningslinjer och påbyggnadslinjer inom grundläggande högskoleutbildning
