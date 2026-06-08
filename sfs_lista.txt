@@ -4702,8 +4702,22 @@ SFS-nr	Rubrik
 2026:62	Tillkännagivande (2026:62) av EU-förordningar med anledning av lagen (2025:327) om internationella sanktioner
 2026:667	Ställföreträdarförordning (2026:667)
 2026:677	Lag (2026:677) om riksdagens medalj
+2026:723	Lag (2026:723) om talan om administrativ sanktionsavgift i mål om bidragsbrott
+2026:727	Förordning (2026:727) om upplysningsskyldighet i fråga om bidragsbrott
 2026:74	Lag (2026:74) med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur
 2026:75	Förordning (2026:75) om statligt stöd för ökad tillgänglighet till tandvård
+2026:769	Lag (2026:769) om skyldighet för livsmedelsbutiker och apotek att ta emot kontant betalning
+2026:772	Privatuthyrningslag (2026:772)
+2026:786	Lag (2026:786) om nordisk verkställighet i brottmål
+2026:797	Förordning (2026:797) om nordisk verkställighet i brottmål
+2026:806	Lag (2026:806) om användning av AI-system för ansiktsigenkänning i realtid för brottsbekämpande ändamål
+2026:815	Förordning (2026:815) om användning av AI-system för ansiktsigenkänning i realtid för brottsbekämpande ändamål
+2026:837	Lag (2026:837) om beredskapslager av varor i livsmedelskedjan
+2026:843	Lag (2026:843) om hyrköp av bostad
+2026:871	Lag (2026:871) om utredningar för att förebygga suicid
+2026:890	Förordning (2026:890) om samordnad registerkontroll i samband med upphandling
+2026:895	Förordning (2026:895) om riktålder för pension för år 2032
+2026:898	Förordning (2026:898) om bostadsrättsregister
 N1977:1	Förordning (N1977:1) med provisoriska föreskrifter om betyg såvitt avser allmänna utbildningslinjer och påbyggnadslinjer inom grundläggande högskoleutbildning
 N1977:10	Förordning (N1977:10) med vissa interimistiska bestämmelser för högskolan inom jordbruksdepartementets verksamhetsområde
 N1977:100	Förordning (N1977:100) om studiedagar m.m. för vissa lärare
