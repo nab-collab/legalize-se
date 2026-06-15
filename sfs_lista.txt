@@ -3445,8 +3445,8 @@ SFS-nr	Rubrik
 2016:1020	Förordning (2016:1020) om fastställande av omräknade belopp för tobaksskatt för år 2017
 2016:1021	Finansinspektionens tillkännagivande (2016:1021) om ändring av vissa skadelivräntor
 2016:1022	Förordning (2016:1022) om inkomstgaranti, tjänstepension och vissa försäkringsförmåner för statsråd
-2016:1024	Lag (2016:1024) om verksamhet med bostadskrediter
-2016:1033	Förordning (2016:1033) om verksamhet med bostadskrediter
+2016:1024	/Rubriken upphör att gälla U:2026-11-20/ Lag (2016:1024) om verksamhet med bostadskrediter /Rubriken träder i kraft I:2026-11-20/ Lag (2016:1024) om verksamhet med bostadskrediter och vissa andra konsumentkrediter
+2016:1033	/Rubriken upphör att gälla U:2026-11-20/ Förordning (2016:1033) om verksamhet med bostadskrediter /Rubriken träder i kraft I:2026-11-20/ Förordning (2016:1033) om verksamhet med bostadskrediter och vissa andra konsumentkrediter
 2016:1034	Förordning (2016:1034) om standardiserat EU-faktablad och beräkning av effektiv ränta vid bostadskrediter
 2016:104	Tillkännagivande (2016:104) av ändring i bihang B till fördraget (2016:104) om internationell järnvägstrafik (COTIF)
 2016:1044	Förordning (2016:1044) om arbetstid vid inlandssjöfart
@@ -4025,7 +4025,6 @@ SFS-nr	Rubrik
 2021:1083	Försäkringskassans föreskrifter (2021:1083) om ändring av vissa underhållsbidrag år 2022
 2021:1091	Förordning (2021:1091) om ränta vid betalningsskyldighet för underhållsstöd för år 2022
 2021:1106	Lag (2021:1106) om skatteavtal mellan Sverige och Slovenien
-2021:1117	Lag (2021:1117) om riksdagens medalj
 2021:1129	Förordning (2021:1129) om register över förordnade läkemedel för behandling av djur
 2021:1142	Förordning (2021:1142) om ansvar och ersättning vid radiologiska olyckor
 2021:1146	Förordning (2021:1146) om skiktgräns för statlig inkomstskatt för beskattningsåret 2022
@@ -4640,7 +4639,12 @@ SFS-nr	Rubrik
 2025:986	Lag (2025:986) om public service
 2025:987	Förordning (2025:987) om public service
 2026:100	Lag (2026:100) om särskild beräkning av arbetsgivaravgifter och allmän  löneavgift för personer som vid årets ingång fyllt 18 men inte  23 år
+2026:1011	Konsumentkreditlag (2026:1011)
+2026:1039	Förordning (2026:1039) om ärenden som gäller verksamheter och åtgärder för förnybar energi
+2026:1054	Lag (2026:1054) om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet
 2026:106	Förordning (2026:106) om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område
+2026:1094	Lag (2026:1094) med kompletterande bestämmelser till EU:s förordning om europeiska utlämnande- och bevarandeorder för elektroniska bevis
+2026:1095	Förordning (2026:1095) om utsedda verksamhetsställen och rättsliga ombud för inhämtning av elektroniska bevis
 2026:125	Beskattningsdatalag (2026:125)
 2026:126	Folkbokföringsdatalag (2026:126)
 2026:127	Tulldatalag (2026:127)
@@ -4718,6 +4722,15 @@ SFS-nr	Rubrik
 2026:890	Förordning (2026:890) om samordnad registerkontroll i samband med upphandling
 2026:895	Förordning (2026:895) om riktålder för pension för år 2032
 2026:898	Förordning (2026:898) om bostadsrättsregister
+2026:953	Förordning (2026:953) om statsbidrag till regioner för telefon- och webbaserade stödinsatser inom området psykisk hälsa och suicidprevention
+2026:955	Lag (2026:955) om avgift för områdessamverkan
+2026:956	Lag (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara
+2026:966	Lag (2026:966) om utsedda verksamhetsställen och rättsliga ombud för inhämtning av elektroniska bevis
+2026:982	Förordning (2026:982) om ett samverkansråd för åtgärder mot överträdelser av internationella sanktioner
+2026:983	Lag (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands
+2026:984	Lag (2026:984) om arbetsmiljölagens tillämplighet för arbetstagare inom Kriminalvården vid tjänstgöring i en kriminalvårdsanstalt utomlands
+2026:995	Förordning (2026:995) om tillfällig verkställighet av svenska fängelsestraff utomlands
+2026:999	Mottagandelag (2026:999)
 N1977:1	Förordning (N1977:1) med provisoriska föreskrifter om betyg såvitt avser allmänna utbildningslinjer och påbyggnadslinjer inom grundläggande högskoleutbildning
 N1977:10	Förordning (N1977:10) med vissa interimistiska bestämmelser för högskolan inom jordbruksdepartementets verksamhetsområde
 N1977:100	Förordning (N1977:100) om studiedagar m.m. för vissa lärare
