@@ -4645,6 +4645,11 @@ SFS-nr	Rubrik
 2026:106	Förordning (2026:106) om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område
 2026:1094	Lag (2026:1094) med kompletterande bestämmelser till EU:s förordning om europeiska utlämnande- och bevarandeorder för elektroniska bevis
 2026:1095	Förordning (2026:1095) om utsedda verksamhetsställen och rättsliga ombud för inhämtning av elektroniska bevis
+2026:1113	Lag (2026:1113) om intäktsdelning från vindkraftsanläggningar
+2026:1115	Förordning (2026:1115) om intäktsdelning från vindkraftsanläggningar
+2026:1134	Förordning (2026:1134) om socialdataregister
+2026:1200	Lag (2026:1200) om uppgiftsskyldighet vid samverkan inom det nationella cybersäkerhetscentret
+2026:1201	Lag (2026:1201) om Försvarets radioanstalts behandling av personuppgifter inom det nationella cybersäkerhetscentret
 2026:125	Beskattningsdatalag (2026:125)
 2026:126	Folkbokföringsdatalag (2026:126)
 2026:127	Tulldatalag (2026:127)
