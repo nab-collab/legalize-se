@@ -2989,7 +2989,7 @@ SFS-nr	Rubrik
 2011:7	Förordning (2011:7) om dansarutbildning
 2011:703	Förordning (2011:703) om leksakers säkerhet
 2011:704	Förordning (2011:704) med kompletterande bestämmelser till EU:s underhållsförordning och 2007 års Haagkonvention om underhållsskyldighet
-2011:710	Lag (2011:710) om certifiering av transmissionsnätsföretag för el
+2011:710	/Rubriken upphör att gälla U:2027-01-01/ Lag (2011:710) om certifiering av transmissionsnätsföretag för el /Rubriken träder i kraft I:2027-01-01/ Lag om certifiering av systemansvariga för överföringssystem  för el
 2011:711	Lag (2011:711) om certifiering av vissa naturgasföretag
 2011:714	Förordning (2011:714) om certifiering av transmissionsnätsföretag för el
 2011:715	Förordning (2011:715) om certifiering av vissa naturgasföretag
@@ -4136,7 +4136,7 @@ SFS-nr	Rubrik
 2022:1057	Lag (2022:1057) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:1058	Förordning (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:106	Förordning (2022:106) om upphävande av Verket för näringslivsutvecklings föreskrifter (NUTFS 2007:1) för länsstyrelsernas medfinansiering av projekt för främjande av kvinnors företagande
-2022:107	Förordning (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter
+2022:107	/Rubriken upphör att gälla U:2026-07-20/ Förordning (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter /Rubriken träder i kraft I:2026-07-20/ Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter
 2022:1147	Förordning (2022:1147) om marknadskontroll av EU-gödselprodukter
 2022:119	Förordning (2022:119) om upphävande av Folkhälsomyndighetens föreskrifter och allmänna råd (HSLF-FS 2020:78) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19
 2022:1220	Förordning (2022:1220) om statsbidrag till kommuner för att stärka arbetet med att motverka hemlöshet
@@ -4650,12 +4650,29 @@ SFS-nr	Rubrik
 2026:1134	Förordning (2026:1134) om socialdataregister
 2026:1200	Lag (2026:1200) om uppgiftsskyldighet vid samverkan inom det nationella cybersäkerhetscentret
 2026:1201	Lag (2026:1201) om Försvarets radioanstalts behandling av personuppgifter inom det nationella cybersäkerhetscentret
+2026:1235	Lag (2026:1235) om avlägsnande av rekryteringsinnehåll online
+2026:1237	Förordning (2026:1237) om avlägsnande av rekryteringsinnehåll online
 2026:125	Beskattningsdatalag (2026:125)
+2026:1255	Lag (2026:1255) om kommunal hamnverksamhet
 2026:126	Folkbokföringsdatalag (2026:126)
 2026:127	Tulldatalag (2026:127)
+2026:1274	Lag (2026:1274) om åtgärder mot manipulation och missbruk av färdskrivare
 2026:128	Kronofogdedatalag (2026:128)
+2026:1281	Elmarknadslag (2026:1281)
+2026:1282	Lag (2026:1282) om införande av elmarknadslagen (2026:1281)
+2026:1283	Lag (2026:1283) om elektriska ledningar
 2026:129	Lag (2026:129) om det statliga personadressregistret
 2026:130	Lag (2026:130) om dataskydd i Skatteverkets äktenskapsregister- och bouppteckningsverksamheter
+2026:1306	Lag (2026:1306) om samordnad vård- och stödverksamhet
+2026:1326	Lag (2026:1326) om bosättning för vissa nyanlända invandrare
+2026:1330	Förordning (2026:1330) om bosättning för vissa nyanlända invandrare
+2026:1358	Lag (2026:1358) om statlig e-legitimation och elektronisk identifiering
+2026:1359	Förordning (2026:1359) om statlig e-legitimation och elektronisk identifiering
+2026:1379	Lag (2026:1379) om interoperabilitetskrav för datadelning inom den offentliga förvaltningen
+2026:1380	Förordning (2026:1380) om statligt stöd till luft- och sjötransporter till och från Gotland
+2026:1387	Förordning (2026:1387) om tillhandahållande på marknaden av EU-gödselprodukter
+2026:1390	Förordning (2026:1390) om beredskapslager av varor i livsmedelskedjan
+2026:1391	Förordning (2026:1391) om tillfälligt statsbidrag för sänkta priser i kollektivtrafiken
 2026:156	Beskattningsdataförordning (2026:156)
 2026:157	Folkbokföringsdataförordning (2026:157)
 2026:158	Tulldataförordning (2026:158)
