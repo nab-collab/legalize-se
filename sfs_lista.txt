@@ -327,7 +327,7 @@ SFS-nr	Rubrik
 1969:399	Kungörelse (1969:399) om förvaltare för avlyst flottled
 1969:475	Kungörelse (1969:475) om uppbörd av särskilda avgifter genom Tullverkets försorg
 1969:590	Kungörelse (1969:590) om ersättning vid förundersökning i brottmål
-1969:620	Lag (1969:620) om ersättning i vissa fall för utgivna underhållsbidrag
+1969:620	Lag (1969:620) om ersättning i vissa fall för utgivna underhållsbidrag
 1969:624	Förordning (1969:624) om rättsgenetisk undersökning vid utredning av faderskap
 1969:644	Lag (1969:644) om vissa rättigheter för statslösa personer och politiska flyktingar
 1969:91	Kungörelse (1969:91) med anledning av Sveriges tillträde till konventionen den 19 maj 1956 om  fraktavtalet vid internationell godsbefordran på väg
@@ -1764,7 +1764,7 @@ SFS-nr	Rubrik
 1999:289	Lag (1999:289) om Svenska kyrkans personal vid relationsändringen mellan staten och Svenska kyrkan den 1 januari 2000
 1999:290	Lag (1999:290) om skattefrihet för prästlönetillgångar vid 2001-2010 års taxeringar
 1999:291	Lag (1999:291) om avgift till registrerat trossamfund
-1999:292	Lag (1999:292) om avveckling av stadgad åborätt och landgille
+1999:292	Lag (1999:292) om avveckling av stadgad åborätt och landgille
 1999:3	Tillkännagivande (1999:3) av uppgift om Riksbankens diskonto
 1999:332	Lag (1999:332) om ersättning till steriliserade i vissa fall
 1999:381	Lag (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor
@@ -4667,9 +4667,11 @@ SFS-nr	Rubrik
 2026:1459	Lag (2026:1459) om insyn i kommunikation med syfte att påverka politiska beslut
 2026:1460	Lag (2026:1460) med bestämmelser om arbetsmarknadsorganisationers bidrag för partipolitiska ändamål
 2026:1480	Förordning (2026:1480) med instruktion för Statens kulturråd
-2026:1487	(2026:1487)
+2026:1487	Förordning (2026:1487) om omfattning av tiden för lärares och förskollärares undervisningsuppdrag
 2026:1489	Förordning (2026:1489) om interoperabilitetskrav för datadelning inom den offentliga förvaltningen
 2026:1490	Tillkännagivande (2026:1490) av uppgift om Riksbankens referensränta
+2026:1492	Förordning (2026:1492) med kompletterande bestämmelser till EU:s förordning om europeiska utlämnande- och bevarandeorder för elektroniska bevis
+2026:1495	Förordning (2026:1495) om gasprisstöd för januari-februari 2026
 2026:156	Beskattningsdataförordning (2026:156)
 2026:157	Folkbokföringsdataförordning (2026:157)
 2026:158	Tulldataförordning (2026:158)
