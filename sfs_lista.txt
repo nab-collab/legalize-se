@@ -2097,7 +2097,6 @@ SFS-nr	Rubrik
 2004:1192	Lag (2004:1192) om konvention mellan Sverige och Amerikas  förenta stater om social trygghet
 2004:12	Tillkännagivande (2004:12) om den EG-förordning som avses i lagen (1992:1684) om EG-gödselmedel
 2004:1265	Åklagarförordning (2004:1265)
-2004:13	Förordning (2004:13) om EG-gödselmedel
 2004:1310	Förordning (2004:1310) om ränta på återbetalning enligt lagen  (1996:1030) om underhållsstöd för år 2005
 2004:1318	Finansinspektionens tillkännagivande (2004:1318) om ändring av vissa skadelivräntor
 2004:1319	Förordning (2004:1319) om förfarande med förverkad egendom och hittegods m.m.
@@ -3044,7 +3043,6 @@ SFS-nr	Rubrik
 2012:492	Lag (2012:492) om pliktexemplar av elektroniskt material
 2012:503	Förordning (2012:503) om tatueringsfärger
 2012:509	Förordning (2012:509) om betygsrätt för viss utbildning vid internationella skolor
-2012:515	Förordning (2012:515) med instruktion för Statens kulturråd
 2012:516	Förordning (2012:516) om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet
 2012:517	Förordning (2012:517) om statsbidrag till kulturella ändamål
 2012:520	Förordning (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd
@@ -4126,7 +4124,6 @@ SFS-nr	Rubrik
 2022:1058	Förordning (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:106	Förordning (2022:106) om upphävande av Verket för näringslivsutvecklings föreskrifter (NUTFS 2007:1) för länsstyrelsernas medfinansiering av projekt för främjande av kvinnors företagande
 2022:107	/Rubriken upphör att gälla U:2026-07-20/ Förordning (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter /Rubriken träder i kraft I:2026-07-20/ Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter
-2022:1147	Förordning (2022:1147) om marknadskontroll av EU-gödselprodukter
 2022:119	Förordning (2022:119) om upphävande av Folkhälsomyndighetens föreskrifter och allmänna råd (HSLF-FS 2020:78) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19
 2022:1220	Förordning (2022:1220) om statsbidrag till kommuner för att stärka arbetet med att motverka hemlöshet
 2022:1250	Lag (2022:1250) om egenvård
@@ -4223,8 +4220,6 @@ SFS-nr	Rubrik
 2022:417	Järnvägsteknikförordning (2022:417)
 2022:418	Järnvägssäkerhetsförordning (2022:418)
 2022:419	Förordning om nationella järnvägssystem (2022:419)
-2022:459	Lag (2022:459) om tillfälliga bestämmelser för förlängning av tillstånd att sända digital kommersiell radio
-2022:461	Förordning (2022:461) om tillfälliga bestämmelser för förlängning av tillstånd att sända digital kommersiell radio
 2022:469	Förordning (2022:469) om utstationering av förare inom vägtransportsektorn
 2022:482	Lag (2022:482) om elektronisk kommunikation
 2022:483	Lag (2022:483) om införande av lagen (2022:482) om elektronisk kommunikation
@@ -4672,6 +4667,8 @@ SFS-nr	Rubrik
 2026:1490	Tillkännagivande (2026:1490) av uppgift om Riksbankens referensränta
 2026:1492	Förordning (2026:1492) med kompletterande bestämmelser till EU:s förordning om europeiska utlämnande- och bevarandeorder för elektroniska bevis
 2026:1495	Förordning (2026:1495) om gasprisstöd för januari-februari 2026
+2026:1516	Förordning (2026:1516) med instruktion för Naturvårdsverket
+2026:1522	Elsystemförordning (2026:1522)
 2026:156	Beskattningsdataförordning (2026:156)
 2026:157	Folkbokföringsdataförordning (2026:157)
 2026:158	Tulldataförordning (2026:158)
