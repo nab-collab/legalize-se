@@ -4669,6 +4669,7 @@ SFS-nr	Rubrik
 2026:1495	Förordning (2026:1495) om gasprisstöd för januari-februari 2026
 2026:1516	Förordning (2026:1516) med instruktion för Naturvårdsverket
 2026:1522	Elsystemförordning (2026:1522)
+2026:1524	Förordning (2026:1524) om statligt stöd till företag inom primärproduktion av jordbruksprodukter eller fiskeri- och vattenbruksprodukter för ökade kostnader med anledning av krisen i Mellanöstern
 2026:156	Beskattningsdataförordning (2026:156)
 2026:157	Folkbokföringsdataförordning (2026:157)
 2026:158	Tulldataförordning (2026:158)
