@@ -4123,7 +4123,7 @@ SFS-nr	Rubrik
 2022:1057	Lag (2022:1057) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:1058	Förordning (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 2022:106	Förordning (2022:106) om upphävande av Verket för näringslivsutvecklings föreskrifter (NUTFS 2007:1) för länsstyrelsernas medfinansiering av projekt för främjande av kvinnors företagande
-2022:107	/Rubriken upphör att gälla U:2026-07-20/ Förordning (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter /Rubriken träder i kraft I:2026-07-20/ Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter
+2022:107	Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter
 2022:119	Förordning (2022:119) om upphävande av Folkhälsomyndighetens föreskrifter och allmänna råd (HSLF-FS 2020:78) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19
 2022:1220	Förordning (2022:1220) om statsbidrag till kommuner för att stärka arbetet med att motverka hemlöshet
 2022:1250	Lag (2022:1250) om egenvård
