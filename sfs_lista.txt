@@ -1825,7 +1825,7 @@ SFS-nr	Rubrik
 2000:1219	Lag (2000:1219) om internationellt tullsamarbete
 2000:1222	Förordning (2000:1222) om internationellt tullsamarbete
 2000:1225	Lag (2000:1225) om straff för smuggling
-2000:130	Lag (2000:130) om försvarsunderrättelseverksamhet
+2000:130	/Rubriken upphör att gälla U:2027-01-01/ Lag (2000:130) om försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2000:130) om utrikesunderrättelseverksamhet
 2000:131	Förordning (2000:131) om försvarsunderrättelseverksamhet
 2000:1329	Förordning (2000:1329) om ränta på återbetalning enligt lagen (1996:1030) om  underhållsstöd för år 2001
 2000:1330	Utsädesförordning (2000:1330)
@@ -2571,7 +2571,7 @@ SFS-nr	Rubrik
 2008:586	Lag (2008:586) om gruppundantag för konkurrensbegränsande avtal om tekniköverföring
 2008:62	Förordning (2008:62) om statsbidrag till verksamheter mot rasism och liknande former av intolerans
 2008:716	Tillkännagivande (2008:716) av uppgift om Riksbankens referensränta
-2008:717	Lag (2008:717) om signalspaning i försvarsunderrättelseverksamhet
+2008:717	/Rubriken upphör att gälla U:2027-01-01/ Lag (2008:717) om signalspaning i försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2008:717) om signalspaning i utrikesunderrättelseverksamhet
 2008:748	Förordning (2008:748) med instruktion för Svenska institutet för europapolitiska studier
 2008:753	Förordning (2008:753) om prisbasbelopp och förhöjt prisbasbelopp för år 2009
 2008:756	Förordning (2008:756) om statsbidrag för handledarutbildning
@@ -2737,7 +2737,7 @@ SFS-nr	Rubrik
 2009:947	Förordning (2009:947) med instruktion för Kemikalieinspektionen
 2009:955	Förordning (2009:955) om statsbidrag till vissa juridiska personer som tillhandahåller meningsfull sysselsättning till personer med psykisk funktionsnedsättning
 2009:956	Förordning (2009:956) om översvämningsrisker
-2009:966	Lag (2009:966) om Försvarsunderrättelsedomstol
+2009:966	/Rubriken upphör att gälla U:2027-01-01/ Lag (2009:966) om Försvarsunderrättelsedomstol /Rubriken träder i kraft I:2027-01-01/ Lag (2009:966) om Underrättelsedomstol
 2009:968	Förordning (2009:968) med instruktion för Försvarsunderrättelsedomstolen
 2009:969	Förordning (2009:969) med instruktion för Statens inspektion för försvarsunderrättelseverksamheten
 2009:974	Förordning (2009:974) med instruktion för Sveriges meteorologiska och hydrologiska institut
@@ -4672,14 +4672,21 @@ SFS-nr	Rubrik
 2026:1524	Förordning (2026:1524) om statligt stöd till företag inom primärproduktion av jordbruksprodukter eller fiskeri- och vattenbruksprodukter för ökade kostnader med anledning av krisen i Mellanöstern
 2026:156	Beskattningsdataförordning (2026:156)
 2026:157	Folkbokföringsdataförordning (2026:157)
+2026:1575	Lag (2026:1575) om behandling av personuppgifter vid Sveriges utrikes underrättelsetjänst
 2026:158	Tulldataförordning (2026:158)
 2026:159	Kronofogdedataförordning (2026:159)
 2026:160	Förordning (2026:160) om det statliga personadressregistret
+2026:1600	Lag (2026:1600) om omhändertagande för vård av barn och unga
+2026:1601	Lag (2026:1601) om särskilda befogenheter för den statliga barn- och ungdomsvården
 2026:161	Förordning (2026:161) om dataskydd i Skatteverkets äktenskapsregister- och bouppteckningsverksamheter
 2026:162	Förordning (2026:162) om utlämnande av uppgifter från Skatteverkets beskattningsverksamhet
 2026:163	Förordning (2026:163) om utlämnande av uppgifter från Skatteverkets folkbokföringsverksamhet
+2026:1633	Förordning (2026:1633) med instruktion för Sveriges utrikes underrättelsetjänst
+2026:1637	Lag (2026:1637) om insatser inom socialtjänsten när samtycke saknas
+2026:1639	Lag (2026:1639) om Polismyndighetens behandling av personuppgifter enligt lagen (2026:1637) om insatser inom socialtjänsten när samtycke saknas
 2026:164	Förordning (2026:164) om utlämnande av uppgifter från Tullverket
 2026:165	Förordning (2026:165) om utlämnande av uppgifter från Kronofogdemyndigheten
+2026:1653	Lag (2026:1653) om verkställighet av villkorligt fängelse
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
@@ -4743,7 +4750,7 @@ SFS-nr	Rubrik
 2026:898	Förordning (2026:898) om bostadsrättsregister
 2026:953	Förordning (2026:953) om statsbidrag till regioner för telefon- och webbaserade stödinsatser inom området psykisk hälsa och suicidprevention
 2026:955	Lag (2026:955) om avgift för områdessamverkan
-2026:956	Lag (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara
+2026:956	/Rubriken upphör att gälla U:2027-01-01/ Lag (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara /Rubriken träder i kraft I:2027-01-01/ Lag (2026:956) om signalspaning i utrikesunderrättelseverksamhet i krig eller krigsfara
 2026:966	Lag (2026:966) om utsedda verksamhetsställen och rättsliga ombud för inhämtning av elektroniska bevis
 2026:982	Förordning (2026:982) om ett samverkansråd för åtgärder mot överträdelser av internationella sanktioner
 2026:983	Lag (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands
