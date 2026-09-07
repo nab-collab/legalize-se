@@ -3102,7 +3102,6 @@ SFS-nr	Rubrik
 2012:969	Förordning (2012:969) om ränta för år 2013 enligt 4 a § lagen (1997:484) om dröjsmålsavgift
 2012:970	Förordning (2012:970) om certifiering av vissa tjänster på energiområdet
 2012:978	Lag (2012:978) om uthyrning av egen bostad
-2012:989	Förordning (2012:989) med instruktion för Naturvårdsverket
 2012:990	Förordning (2012:990) med instruktion för Kommerskollegium
 2012:992	Förordning (2012:992) om statsbidrag för arbetsplatsförlagt lärande i gymnasieskolan och anpassade gymnasieskolan
 2012:993	Förordning (2012:993) om statsbidrag för utbildning i svenska för invandrare
@@ -4534,7 +4533,7 @@ SFS-nr	Rubrik
 2025:1421	Förordning (2025:1421) om förfarandet vid utredningar om risken för att den dömde begår nya brott av allvarligt slag
 2025:145	Förordning (2025:145) om upptagning av biometriska underlag i brottsbekämpningen
 2025:1452	Förordning (2025:1452) om upphävande av Vägverkets föreskrifter (VVFS 2005:75) om betalning av avgift för färd på Svinesundsförbindelsen
-2025:1484	Förordning med instruktion för Myndigheten för säkerhet och integritetsskydd (2025:1484)
+2025:1484	Förordning (2025:1484) med instruktion för Myndigheten för säkerhet och integritetsskydd
 2025:1487	Förordning (2025:1487) om statligt stöd för att förbättra leveranssäkerheten i elsystemet
 2025:1506	Cybersäkerhetslag (2025:1506)
 2025:1507	Cybersäkerhetsförordning (2025:1507)
@@ -4687,6 +4686,13 @@ SFS-nr	Rubrik
 2026:164	Förordning (2026:164) om utlämnande av uppgifter från Tullverket
 2026:165	Förordning (2026:165) om utlämnande av uppgifter från Kronofogdemyndigheten
 2026:1653	Lag (2026:1653) om verkställighet av villkorligt fängelse
+2026:1700	Förordning (2026:1700) om ansvarig länsstyrelse för uppgifter om ersättning i vissa fall för utgivna underhållsbidrag
+2026:1701	Förordning (2026:1701) om ansvarig länsstyrelse för uppgifter vid avveckling av stadgad åborätt
+2026:1702	Förordning (2026:1702) om ansvarig länsstyrelse för vissa uppgifter enligt jordabalken
+2026:1703	Förordning (2026:1703) om ansvarig länsstyrelse för uppgifter vid fastställande av faderskap enligt föräldrabalken
+2026:1705	Förordning (2026:1705) om statligt stöd för en mer effektiv energianvändning hos företag
+2026:1715	Mottagandeförordning (2026:1715)
+2026:1739	Förordning (2026:1739) med kompletterande bestämmelser till EU-förordningen om ekodesign
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
