@@ -1654,7 +1654,6 @@ SFS-nr	Rubrik
 1998:1705	Lag (1998:1705) om inspektioner enligt konventionen om förbud mot användning, lagring, produktion och överföring av antipersonella minor (truppminor) samt om deras förstöring
 1998:1707	Lag (1998:1707) om åtgärder mot buller och avgaser från mobila maskiner
 1998:1709	Förordning (1998:1709) om avgaskrav för vissa förbränningsmotordrivna mobila maskiner
-1998:1719	Lag (1998:1719) om riksdagsledamöternas arvode
 1998:1721	Förordning (1998:1721) om dubbelbeskattningsavtal mellan Sverige och Venezuela
 1998:1739	Förordning (1998:1739) om Stiftelsen Norrlandsfondens förvaltning av lokaliseringslån och regionala utvecklingslån
 1998:1757	Lag (1998:1757) om förvaltning av vissa fonder inom socialförsäkringsområdet
@@ -4693,6 +4692,14 @@ SFS-nr	Rubrik
 2026:1705	Förordning (2026:1705) om statligt stöd för en mer effektiv energianvändning hos företag
 2026:1715	Mottagandeförordning (2026:1715)
 2026:1739	Förordning (2026:1739) med kompletterande bestämmelser till EU-förordningen om ekodesign
+2026:1750	Förordning (2026:1750) om den tekniska lösningen för åtkomst till det decentraliserade it-systemet i enlighet med EU:s förordning om europeiska utlämnandeorder och europeiska bevarandeorder för elektroniska bevis
+2026:1751	Förordning (2026:1751) om statsbidrag för undervisning på entreprenad inom små och dyra yrkesområden
+2026:1760	Förordning (2026:1760) om avgifter för utlämnande av allmänna handlingar hos enskilda huvudmän inom skolväsendet
+2026:1763	Förordning (2026:1763) om uppgiftsskyldighet för uppföljning och utvärdering av utbildning och annan pedagogisk verksamhet enligt skollagen (2010:800)
+2026:1764	Förordning (2026:1764) om uppgiftsskyldighet för huvudmännen inom skolväsendet om nationella prov
+2026:1769	Förordning (2026:1769) med instruktion för Digitaliseringsmyndigheten
+2026:1772	Förordning (2026:1772) om uppräkningsfaktorer vid beräkning av preliminära kommunalskattemedel för 2027
+2026:1776	Förordning (2026:1776) om ärendehanteringssystem och andra handläggningsstöd hos lantmäterimyndigheter
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
