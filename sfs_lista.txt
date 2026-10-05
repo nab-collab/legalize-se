@@ -1314,7 +1314,6 @@ SFS-nr	Rubrik
 1994:1324	Tillkännagivande (1994:1324) av uppgift om Riksbankens diskonto
 1994:1331	Förordning (1994:1331) om dubbelbeskattningsavtal mellan Sverige och Vietnam
 1994:1333	Riksbankens föreskrifter (1994:1333) om minnesmynt på ett tusen och två hundra kronor
-1994:137	Lag (1994:137) om mottagande av asylsökande m.fl.
 1994:1387	Förordning (1994:1387) om ränta på studielån för år 1995
 1994:1478	Lag (1994:1478) om förverkande av barnpornografi
 1994:1500	Lag (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen
@@ -1364,7 +1363,6 @@ SFS-nr	Rubrik
 1994:281	Lag (1994:281) om dubbelbeskattningsavtal mellan Sverige och Gambia
 1994:282	Lag (1994:282) om dubbelbeskattningsavtal mellan Sverige och Bolivia
 1994:320	Förordning (1994:320) om tillämpning av konventionen den 30 mars  1978 mellan Sverige och Jugoslavien rörande social trygghet i  förhållandet mellan Sverige och Slovenien
-1994:361	Förordning (1994:361) om mottagande av asylsökande m.fl.
 1994:362	Förordning (1994:362) om vårdavgifter m.m. för vissa utlänningar
 1994:373	Anställningsförordning (1994:373)
 1994:419	Lag (1994:419) om brottsofferfond
@@ -4700,6 +4698,7 @@ SFS-nr	Rubrik
 2026:1769	Förordning (2026:1769) med instruktion för Digitaliseringsmyndigheten
 2026:1772	Förordning (2026:1772) om uppräkningsfaktorer vid beräkning av preliminära kommunalskattemedel för 2027
 2026:1776	Förordning (2026:1776) om ärendehanteringssystem och andra handläggningsstöd hos lantmäterimyndigheter
+2026:1779	Förordning (2026:1779) om prisbasbelopp och förhöjt prisbasbelopp för år 2027
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
