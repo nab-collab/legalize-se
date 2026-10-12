@@ -3098,7 +3098,6 @@ SFS-nr	Rubrik
 2012:884	Lag (2012:884) med instruktion för Riksdagens överklagandenämnd
 2012:969	Förordning (2012:969) om ränta för år 2013 enligt 4 a § lagen (1997:484) om dröjsmålsavgift
 2012:970	Förordning (2012:970) om certifiering av vissa tjänster på energiområdet
-2012:978	Lag (2012:978) om uthyrning av egen bostad
 2012:990	Förordning (2012:990) med instruktion för Kommerskollegium
 2012:992	Förordning (2012:992) om statsbidrag för arbetsplatsförlagt lärande i gymnasieskolan och anpassade gymnasieskolan
 2012:993	Förordning (2012:993) om statsbidrag för utbildning i svenska för invandrare
@@ -3825,7 +3824,6 @@ SFS-nr	Rubrik
 2019:1176	Förordning (2019:1176) om undantag från prövning av oredlighet i forskning inom det försvars- och säkerhetspolitiska området
 2019:1182	Lag (2019:1182) om Säkerhetspolisens behandling av personuppgifter
 2019:1193	Försäkringskassans föreskrifter (2019:1193) om procenttal för ändring av vissa underhållsbidrag
-2019:1204	Lag (2019:1204) om ändring i lagen (1994:137) om mottagande av asylsökande m.fl.
 2019:1215	Lag (2019:1215) med kompletterande bestämmelser till EU:s förordning om värdepapperisering
 2019:1223	Förordning (2019:1223) med kompletterande bestämmelser till EU:s förordning om transparens i transaktioner för värdepappersfinansiering och om återanvändning
 2019:1224	Förordning (2019:1224) med kompletterande bestämmelser till EU:s förordning om värdepapperisering
@@ -4699,6 +4697,8 @@ SFS-nr	Rubrik
 2026:1772	Förordning (2026:1772) om uppräkningsfaktorer vid beräkning av preliminära kommunalskattemedel för 2027
 2026:1776	Förordning (2026:1776) om ärendehanteringssystem och andra handläggningsstöd hos lantmäterimyndigheter
 2026:1779	Förordning (2026:1779) om prisbasbelopp och förhöjt prisbasbelopp för år 2027
+2026:1780	Förordning (2026:1780) om elektriska ledningar
+2026:1781	Förordning (2026:1781) om certifiering av systemansvariga för överföringssystem för el
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
