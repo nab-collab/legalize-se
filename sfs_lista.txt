@@ -4699,6 +4699,7 @@ SFS-nr	Rubrik
 2026:1779	Förordning (2026:1779) om prisbasbelopp och förhöjt prisbasbelopp för år 2027
 2026:1780	Förordning (2026:1780) om elektriska ledningar
 2026:1781	Förordning (2026:1781) om certifiering av systemansvariga för överföringssystem för el
+2026:1806	Förordning (2026:1806) om fastställande av omräknade belopp för vägavgift för år 2027
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
@@ -7359,3 +7360,7 @@ N2025:9	Förordning om ändring i förordningen (SKOLFS 2011:144) om läroplan f
 N2026:1	Förordning om anställning vid den nya myndigheten Myndigheten för utrikes underrättelser
 N2026:2	Förordning om anställning vid den nya myndigheten Miljöprövningsmyndigheten
 N2026:3	Förordning om ändring i förordningen (SKOLFS 1998:31) om reguljär gymnasieutbildning vid vissa svenska utlandsskolor
+N2026:4	Förordning om upphävande av Rikspolisstyrelsens föreskrifter och allmänna råd (RPSFS 2000:66) om larm m.m., FAP 465-1
+N2026:5	Förordning om upphävande av Rikspolisstyrelsens föreskrifter och allmänna råd (RPSFS 2012:5) om registrering av efterlysta fordon, registreringsskyltar, personliga skyltar och skyltar för beskickningsfordon, FAP 445-1
+N2026:6	Förordning om upphävande av Pensionsmyndighetens föreskrifter (PFS 2018:5) om fondförvaltares ansökan om att ingå fondavtal
+N2026:7	Förordning om upphävande av Riksförsäkringsverkets föreskrifter (RFFS 2004:1) om behandling av personuppgifter inom socialförsäkringens administration
