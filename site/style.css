@@ -1,0 +1,14 @@
+:root { color-scheme: light dark; --max: 52rem; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 16px/1.6 system-ui, sans-serif; }
+header { position: sticky; top: 0; display: flex; gap: 1rem; align-items: center; padding: .6rem 1rem; background: Canvas; border-bottom: 1px solid #8884; }
+.brand { font-weight: 700; text-decoration: none; color: inherit; }
+#q { flex: 1; max-width: 30rem; padding: .4rem .6rem; font: inherit; }
+main, footer { max-width: var(--max); margin: 0 auto; padding: 1rem; }
+footer { font-size: .85rem; opacity: .7; }
+ul.list { list-style: none; padding: 0; margin: 0; }
+ul.list li { padding: .45rem 0; border-bottom: 1px solid #8883; }
+ul.list small { display: block; opacity: .7; }
+.pager { display: flex; gap: 1rem; margin: 1rem 0; }
+.law p { white-space: pre-wrap; margin: 0 0 .8rem; }
+.law .meta { opacity: .75; }
