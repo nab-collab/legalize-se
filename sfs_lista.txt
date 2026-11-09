@@ -1817,7 +1817,6 @@ SFS-nr	Rubrik
 2000:1169	Tillkännagivande (2000:1169) av staters anslutning till konventionen om Österrikes, Finlands och  Sveriges tillträde till Brysselkonventionen
 2000:1171	Förordning (2000:1171) om inkomstindex för år 2001
 2000:1172	Förordning (2000:1172) om statens utlåningsränta och statens avkastningsränta under budgetåret 2001
-2000:1175	Lag (2000:1175) om talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer
 2000:1217	Förordning (2000:1217) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd
 2000:1219	Lag (2000:1219) om internationellt tullsamarbete
 2000:1222	Förordning (2000:1222) om internationellt tullsamarbete
@@ -4700,6 +4699,7 @@ SFS-nr	Rubrik
 2026:1780	Förordning (2026:1780) om elektriska ledningar
 2026:1781	Förordning (2026:1781) om certifiering av systemansvariga för överföringssystem för el
 2026:1806	Förordning (2026:1806) om fastställande av omräknade belopp för vägavgift för år 2027
+2026:1847	Förordning (2026:1847) om tillämpning av EU-förordningar och avtal om administrativt samarbete och bedrägeribekämpning på området för indirekt skatt
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
