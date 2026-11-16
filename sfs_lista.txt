@@ -4700,6 +4700,14 @@ SFS-nr	Rubrik
 2026:1781	Förordning (2026:1781) om certifiering av systemansvariga för överföringssystem för el
 2026:1806	Förordning (2026:1806) om fastställande av omräknade belopp för vägavgift för år 2027
 2026:1847	Förordning (2026:1847) om tillämpning av EU-förordningar och avtal om administrativt samarbete och bedrägeribekämpning på området för indirekt skatt
+2026:1858	Förordning (2026:1858) om fastställande av omräknat belopp för avfallsskatt för år 2027
+2026:1859	Förordning (2026:1859) om fastställande av omräknat belopp för energiskatt på elektrisk kraft för år 2027
+2026:1860	Förordning (2026:1860) om fastställande av omräknade belopp för skatt på kemikalier i viss elektronik för år 2027
+2026:1861	Förordning (2026:1861) om fastställande av omräknat belopp för naturgrusskatt för år 2027
+2026:1862	Förordning (2026:1862) om fastställande av omräknade belopp för skatt på vissa nikotinhaltiga produkter för år 2027
+2026:1863	Förordning (2026:1863) om fastställande av omräknade belopp för tobaksskatt för år 2027
+2026:1864	Försäkringskassans föreskrifter (2026:1864) om ändring av vissa underhållsbidrag år 2027
+2026:1865	Förordning (2026:1865) om urbant avloppsvatten
 2026:205	Lag (2026:205) med kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg
 2026:226	Lag (2026:226) om begränsning av bostadskrediter
 2026:235	Förordning (2026:235) om statligt stöd för energiberedskapsåtgärder
@@ -4714,7 +4722,6 @@ SFS-nr	Rubrik
 2026:306	Förordning (2026:306) om automatiskt utbyte av tilläggsskatterapporter
 2026:310	Lag (2026:310) om tillhandahållande på marknaden av EU-gödselprodukter
 2026:311	Förordning (2026:311) om invasiva främmande arter
-2026:321	Förordning (2026:321) om tillfälligt undantag från krav på yrkestrafiktillstånd
 2026:333	Lag (2026:333) om uppgiftsskyldighet för vissa e-legitimationsföretag
 2026:337	Förordning (2026:337) om uppgiftsskyldighet för vissa e-legitimationsföretag
 2026:380	Lag (2026:380) om bistånd till vissa utlänningar vid inhibition av verkställigheten
